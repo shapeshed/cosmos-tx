@@ -1,3 +1,4 @@
+// Package main is the entry point, containing the main function
 package main
 
 import (

@@ -1,4 +1,4 @@
-module transactions
+module github.com/shapeshed/cosmos-tx
 
 go 1.21.3
 
